@@ -1,0 +1,42 @@
+.mainbox{
+    background-color: coral;
+}
+
+.leftside{
+    background-color: darkgreen;
+}
+
+.main{
+    background-color: aqua;
+}
+.rightside{
+    background-color: antiquewhite;
+}
+
+.footer{
+    background-color: darkblue;
+}
+
+.menu{
+    height: 34px;
+    text-align: center;
+}
+
+.menu>ul>li{
+    display:inline;
+    padding:10px 10px 10px 10px;
+    background-color: darkgreen;
+    position: relative;
+    top:8px;
+    font-family: Tahoma, serif;
+    font-size: 15px;
+}
+
+.menu>ul>li>a{
+    text-decoration: none;
+    color:#fff;
+}
+
+.mgallery {
+    text-align: centre;
+}
